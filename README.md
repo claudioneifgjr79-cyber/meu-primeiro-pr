@@ -12,4 +12,4 @@ Aprender a:
 
 ## Sobre
 
-Reposiório de estudo, sem relação com nenhum projeto de produção.
+Repositório de estudo, sem relação com nenhum projeto de produção.
